@@ -1,18 +1,19 @@
 # Surfs Up
 Module 9 - Advanced Data Storage and Retrieval
 
+
 # Overview of the analysis: Explain the purpose of this analysis.
-Wave and Icecream buisness  investor W. Avy
-W. Avy likes your analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round.
+To ensure the success of the buisiness, Wave and Icecream, our investory W. Avy would like to review the temperature statistics for June and December for Oahu.    Reviewing these months will ensure a successful year round buisness for our icecream and surf shop.
 
-Deliverable 1: Determine the Summary Statistics for June
+# Results: Provide a bulleted list with three major points from the two analysis deliverables. 
+Below are the summary statistics for both June and December.
 
-<img src="June_statistics.png" width="170"> [June_statistics.png](June_statistics.png)
+<img src="June_statistics.png" width="200"> [June_statistics.png](June_statistics.png) <img src="December_statistics.png" width="150"> [December_statistics.png](June_statistics.png)
 
-<img src="December_statistics.png" width="150"> [December_statistics.png](June_statistics.png)
+Key Statistics
+- For our analysis, there were 1,700 temperatures reviewed for June and 1,517 temperatures reviewed for December.
+- June saw an average temperature of 74.9 and December recorded an average of 71.04.
+- The lowest temperature in June was 64.0.   The highest temperature in June was 85.0.
+- The lowest temperature in December was 56.0.   The highest temperature in December was 83.0.
 
-Deliverable 2: Determine the Summary Statistics for December
-
-
-# Results: Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 # Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
