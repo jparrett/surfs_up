@@ -8,7 +8,7 @@ To ensure the success of the buisiness, Wave and Icecream, our investory W. Avy 
 # Results: Provide a bulleted list with three major points from the two analysis deliverables. 
 Below are the summary statistics for both June and December.
 
-<img src="June_statistics.png" width="170"> (June_statistics.png) <img src="December_statistics.png" width="150"> 
+<img src="June_statistics.png" width="170">  <img src="December_statistics.png" width="150"> 
 [June_statistics.png]                     [December_statistics.png]
 
 Key Statistics
