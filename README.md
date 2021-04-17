@@ -7,7 +7,9 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 Deliverable 1: Determine the Summary Statistics for June
 
-<img src="June_statistics.png" width="150"> [June_statistics.png](<img src="June_statistics.png" width="150"> [June_statistics.png])
+<img src="June_statistics.png" width="150"> [June_statistics.png](June_statistics.png)
+
+<img src="December_statistics.png" width="150"> [December_statistics.png](June_statistics.png)
 
 Deliverable 2: Determine the Summary Statistics for December
 
