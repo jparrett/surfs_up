@@ -13,7 +13,7 @@ Below are the summary statistics for both June and December.
 
 Key Statistics
 - For our analysis, there were 1,700 temperatures reviewed for June and 1,517 temperatures reviewed for December.
-- June saw an average temperature of 74.9 and December recorded an average of 71.04.
+- June saw an average temperature of 74.9 and December recorded an average of 71.0.
 - The lowest temperature in June was 64.0.   The highest temperature in June was 85.0.
 - The lowest temperature in December was 56.0.   The highest temperature in December was 83.0.
 
