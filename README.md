@@ -18,7 +18,7 @@ Key Statistics
 - The lowest temperature in December was 56.0.   The highest temperature in December was 83.0.
 
 # Summary: 
-Overall, it can be determined that Wave and Ice Cream would have a successful year-round buisness.   Even with a low temperature in December of 56 degrees, the lowest 25% quartile was still averaging 69 degrees.    This weather would be warm enough to support the business.   Further supporting this is the fact that the average temperatures between June and December only differed by 2 degrees.   That shows that the temperatures in Oahu would be fairly consistent all year long.
+Overall, it can be determined that Wave and Ice Cream would have a successful year-round buisness.   Even with a low temperature in December of 56 degrees, the lowest 25% quartile was still averaging 69 degrees.    This weather would be warm enough to support the business.   Further supporting this is the fact that the average temperatures between June and December only differed by 3.9 degrees.   That shows that the temperatures in Oahu would be fairly consistent all year long.
 
 # Further Analysis
 Before venturing into our business, some more analysis can be performed to further support the success of the business. 
