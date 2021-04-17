@@ -25,6 +25,6 @@ Before venturing into our buisness, some more analysis can be done to further su
 
 - Precipitation:  Our previous analysis on precipitation only included one year.    To be more through in our research, the analysis should go back several years.   This will ensure that we are not looking at one year that may be an anomaly.   Precipitation greatly influences the purchase of ice-cream and surf rentals and could harm our business if the information is not complete.
 
-- Severe Weather:   Unfortunately, Hawaii being a tropical location can also bring severe weather in the form of tropical cyclones.   These can include hurricanes and severe tropical storms.    Using other external data sources, an analyis shoudl be done on the frequency of these storms and their impact in the Oahu area.
+- Severe Weather:   Unfortunately, Hawaii being a tropical location can also bring severe weather in the form of tropical cyclones.   These can include hurricanes and severe tropical storms.    Using other external data sources, an analyis should be done on the frequency of these storms and their impact in the Oahu area.
 
 - Wind:   Wind can be a factor in not only surfing but could effect the number of tourists.    A high wind could make the waves difficult and therefore decrease revenue for rentals.    It could also discourage tourists from venturing outside to enjoy icecream.   It is recommended that an analysis be done on the wind speeds in the area to see if the winds would be a contributing factor to the success of the company.
