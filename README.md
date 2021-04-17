@@ -3,7 +3,7 @@ Module 9 - Advanced Data Storage and Retrieval
 
 
 # Overview of the analysis: Explain the purpose of this analysis.
-To ensure the success of the business, Wave and Icecream, our investory W. Avy would like to review the temperature statistics for June and December for Oahu.    Reviewing these months will ensure a successful year round buisness for our icecream and surf shop.
+To ensure the success of the business, Wave and Icecream, our investory W. Avy would like to review the temperature statistics for June and December for Oahu.    Reviewing these months will ensure a successful year round business for our icecream and surf shop.
 
 # Results: Provide a bulleted list with three major points from the two analysis deliverables. 
 Below are the summary statistics for both June and December.
